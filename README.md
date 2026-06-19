@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Otieno Brian</h1>
-<h3 align="center">Full-Stack Software Engineer with 3+ years of experience building production web applications, REST APIs, and scalable systems.</h3>
+<h3 align="center">Full-Stack Software Engineer with 3+ years of experience building production web applications,
+REST APIs, and scalable systems. Integrates strong development skills in Python/Django and PHP/Laravel
+with cybersecurity best practices to deliver robust, secure, and intuitive digital solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freelance41000" alt="freelance41000" /></a> </p>
 
